@@ -1,0 +1,28 @@
+.user-add-form h2{
+    color:green;
+}
+
+
+.user-add-form {
+    display:flex;
+    flex-direction: column;
+    width:25%;
+    border:5px solid purple;
+    padding:30px;
+    margin:auto;
+    text-align:center;
+    margin-bottom:3%;
+}
+
+i{
+    color:red;
+}
+img{
+    width:60px;
+    height:50px;
+}
+
+.app{
+    text-align:center;
+    margin-top:5%;
+}
